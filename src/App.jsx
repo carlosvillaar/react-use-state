@@ -1,4 +1,4 @@
-import React from 'react'
+import languages from '../data/languages'
 
 const App = () => {
   return (
